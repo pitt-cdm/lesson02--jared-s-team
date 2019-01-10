@@ -4,3 +4,4 @@
 * Microsoft Word
 * Microsoft Powerpoint 
 * Photoshop
+* Slideshows 
